@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Robot Regular */
+@font-face {
+  font-family: 'Roboto Regular';
+  src: url(./fonts/Roboto-Regular.ttf);
+  font-weight: normal;
+}
+
+/* Bold*/
+@font-face{
+  font-family: 'Roboto Bold';
+  src: url(./fonts/Roboto-Bold.ttf);
+  font-weight: normal;
+}
+
+/* Italic*/
+@font-face{
+  font-family: 'Roboto Italic';
+  src: url(./fonts/Roboto-Italic.ttf);
+  font-weight: normal;
+}
+
+/* Light*/
+@font-face{
+  font-family: 'Roboto Light';
+  src: url(./fonts/Roboto-Light.ttf);
+  font-weight: normal;
+}
+
+
+/* Light Italic*/
+@font-face{
+  font-family: 'Roboto LightItalic';
+  src: url(./fonts/Roboto-LightItalic.ttf);
+  font-weight: normal;
+}
+
+
+/* Bold*/
+@font-face{
+  font-family: 'Roboto Bold';
+  src: url(./fonts/Roboto-Bold.ttf);
+  font-weight: normal;
+}
+
+/* Bold Italic*/
+@font-face{
+  font-family: 'Roboto BoldItalic';
+  src: url(./fonts/Roboto-BoldItalic.ttf);
+  font-weight: normal;
+}
+
+/* Medium*/
+@font-face{
+  font-family: 'Roboto Medium';
+  src: url(./fonts/Roboto-Medium.ttf);
+  font-weight: normal;
+}
+
+/* Medium Italic*/
+@font-face{
+  font-family: 'Roboto MediumItalic';
+  src: url(./fonts/Roboto-MediumItalic.ttf);
+  font-weight: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
